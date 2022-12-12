@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victoria, @vdynak.
-- 👀 I’m interested in Data Analysis, CyberSecurity, and Project Management.
+- 👀 I’m interested in Software Engineering, Data Analysis, and Project Management.
 - 🌱 I’m currently learning Python, Java, and C++.
 - 📫 Contact: victoria.dynak.801839@gmail.com
 
